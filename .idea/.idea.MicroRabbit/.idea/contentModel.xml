@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ravi Kant Pal\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ravi Kant Pal\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_MicroRabbit.1148030367.00" t="ExcludeRecursive" />
+    <e p="E:\ASP_CORE\MicroRabbit" t="IncludeFlat">
+      <e p="MicroRabbit.Domain.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bus" t="Include">
+          <e p="IEventBus.cs" t="Include" />
+          <e p="IEventHandler.cs" t="Include" />
+        </e>
+        <e p="Command" t="Include">
+          <e p="Command.cs" t="Include" />
+        </e>
+        <e p="Event" t="Include">
+          <e p="Event.cs" t="Include" />
+          <e p="Message.cs" t="Include" />
+        </e>
+        <e p="MicroRabbit.Domain.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Domain.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Infra.Bus" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MicroRabbit.Infra.Bus.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Infra.Bus.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RabbitMQBus.cs" t="Include" />
+      </e>
+      <e p="MicroRabbit.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
