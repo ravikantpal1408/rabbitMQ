@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="" />
+    <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/.idea/.idea.MicroRabbit/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/.idea/.idea.MicroRabbit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/.idea/.idea.MicroRabbit/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit/MicroRabbit.sln" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,39 +24,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
-              <folding>
-                <marker date="1570519848383" expanded="true" signature="6:317" ph="..." />
-                <marker date="1570519848383" expanded="true" signature="350:4441" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="400:4439" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="616:776" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="842:906" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="964:1579" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="1037:1091" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="1228:1569" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="1663:2385" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="1810:1882" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="1934:2022" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="2098:2286" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="2446:3043" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="2519:2620" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3129:3511" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3285:3390" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3423:3501" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3585:4433" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3645:4423" ph="{...}" />
-                <marker date="1570519848383" expanded="true" signature="3777:4409" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" root0="FORCE_HIGHLIGHTING" />
@@ -62,6 +48,8 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Domain.Core/Bus/IEventBus.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.Bus/Class1.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" />
+        <option value="$PROJECT_DIR$/Infra.IoC/Class1.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/Class1.cs" />
       </list>
     </option>
   </component>
@@ -71,6 +59,7 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -78,14 +67,36 @@
     <panes>
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -115,12 +126,12 @@
       <updated>1570515466387</updated>
       <workItem from="1570515470044" duration="30000" />
       <workItem from="1570515535550" duration="2494000" />
-      <workItem from="1570518074642" duration="1770000" />
+      <workItem from="1570518074642" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4294000" />
+    <option name="totallyTimeSpent" value="4886000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,12 +144,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32916668" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -242,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+        <state relative-caret-position="278">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
           <folding>
             <marker date="1570519848383" expanded="true" signature="6:317" ph="..." />
             <marker date="1570519848383" expanded="true" signature="350:4441" ph="{...}" />
@@ -268,6 +278,12 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infra.IoC/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

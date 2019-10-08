@@ -38,6 +38,17 @@
         </e>
         <e p="RabbitMQBus.cs" t="Include" />
       </e>
+      <e p="MicroRabbit.Infra.IoC" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MicroRabbit.Infra.IoC.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Infra.IoC.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="MicroRabbit.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
