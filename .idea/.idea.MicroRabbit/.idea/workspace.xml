@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -55,6 +55,55 @@
                 <marker date="1570601209535" expanded="true" signature="144:386" ph="{...}" />
                 <marker date="1570601209535" expanded="true" signature="183:384" ph="{...}" />
                 <marker date="1570601209535" expanded="true" signature="262:369" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <marker date="1570601740046" expanded="false" signature="6:255" ph="..." />
+                <marker date="1570601740046" expanded="true" signature="290:617" ph="{...}" />
+                <marker date="1570601740046" expanded="true" signature="317:615" ph="{...}" />
+                <marker date="1570601740046" expanded="true" signature="370:444" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <marker date="1570601740098" expanded="false" signature="6:402" ph="..." />
+                <marker date="1570601740098" expanded="true" signature="437:1534" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="464:1532" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="523:586" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="809:918" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="1106:1526" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="1153:1230" ph="{...}" />
+                <marker date="1570601740098" expanded="true" signature="1247:1450" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,6 +122,9 @@
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Bus/IEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Bus/IEventBus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,56 +165,28 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Domain.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Domain.Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Bus" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Domain.Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Command" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Domain.Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Event" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Infra.Bus" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Banking.API" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -195,6 +219,38 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.MicroRabbit.Banking.API">
+    <configuration name="MicroRabbit.Banking.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MicroRabbit.Banking.API/MicroRabbit.Banking.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="MicroRabbit.Banking.API" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroRabbit.Banking.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MicroRabbit.Banking.API/MicroRabbit.Banking.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -209,7 +265,7 @@
       <workItem from="1570515535550" duration="2494000" />
       <workItem from="1570518074642" duration="2362000" />
       <workItem from="1570520476108" duration="256000" />
-      <workItem from="1570600908403" duration="300000" />
+      <workItem from="1570600908403" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for infrastructure IoC Project">
       <created>1570520710666</created>
@@ -218,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570520710666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit of infrastructure dependency project">
+      <created>1570601306105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570601306110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5442000" />
+    <option name="totallyTimeSpent" value="6104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,7 +318,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,7 +334,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit for infrastructure IoC Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit for infrastructure IoC Project" />
+    <MESSAGE value="initial commit of infrastructure dependency project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit of infrastructure dependency project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,6 +450,45 @@
             <marker date="1570601209535" expanded="true" signature="144:386" ph="{...}" />
             <marker date="1570601209535" expanded="true" signature="183:384" ph="{...}" />
             <marker date="1570601209535" expanded="true" signature="262:369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1570601740046" expanded="false" signature="6:255" ph="..." />
+            <marker date="1570601740046" expanded="true" signature="290:617" ph="{...}" />
+            <marker date="1570601740046" expanded="true" signature="317:615" ph="{...}" />
+            <marker date="1570601740046" expanded="true" signature="370:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1570601740098" expanded="false" signature="6:402" ph="..." />
+            <marker date="1570601740098" expanded="true" signature="437:1534" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="464:1532" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="523:586" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="809:918" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="1106:1526" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="1153:1230" ph="{...}" />
+            <marker date="1570601740098" expanded="true" signature="1247:1450" ph="{...}" />
           </folding>
         </state>
       </provider>
