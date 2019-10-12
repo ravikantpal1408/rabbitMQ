@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+            "projectPath": "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

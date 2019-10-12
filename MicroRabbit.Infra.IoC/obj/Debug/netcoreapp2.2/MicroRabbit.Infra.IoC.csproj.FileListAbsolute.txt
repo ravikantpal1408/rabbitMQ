@@ -12,3 +12,9 @@ E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbi
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CopyComplete
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb

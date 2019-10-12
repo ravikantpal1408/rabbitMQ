@@ -49,6 +49,11 @@
           <e p="BankingDbContext.cs" t="Include" />
         </e>
         <e p="MicroRabbit.Banking.Data.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20191012220232_initial migrations.cs" t="Include" />
+          <e p="20191012220232_initial migrations.Designer.cs" t="Include" />
+          <e p="BankingDbContextModelSnapshot.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
