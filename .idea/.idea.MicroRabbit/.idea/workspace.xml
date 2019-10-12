@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccount.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/Context/BankingDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/Repository/AccountRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/Interfaces/IAccountRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/Models/Account.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -32,6 +30,21 @@
                 <marker date="1570914383431" expanded="true" signature="267:600" ph="{...}" />
                 <marker date="1570914383431" expanded="true" signature="398:470" ph="{...}" />
                 <marker date="1570914383431" expanded="true" signature="521:594" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+              <folding>
+                <marker date="1570915324756" expanded="true" signature="6:337" ph="..." />
+                <marker date="1570915324756" expanded="true" signature="370:866" ph="{...}" />
+                <marker date="1570915324756" expanded="true" signature="409:864" ph="{...}" />
+                <marker date="1570915324756" expanded="true" signature="488:849" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,7 +100,6 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" />
         <option value="$PROJECT_DIR$/Infra.IoC/Class1.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/Class1.cs" />
-        <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Application/Class1.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Data/Class1.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Domain/Class1.cs" />
@@ -97,6 +109,7 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Data/Repository/AccountRepository.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccount.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" />
       </list>
     </option>
   </component>
@@ -170,30 +183,6 @@
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Banking.Data" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MicroRabbit.Banking.Data" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
@@ -203,6 +192,11 @@
               <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MicroRabbit.Banking.Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Infra.IoC" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -282,7 +276,7 @@
       <workItem from="1570518074642" duration="2362000" />
       <workItem from="1570520476108" duration="256000" />
       <workItem from="1570600908403" duration="1210000" />
-      <workItem from="1570911974898" duration="2672000" />
+      <workItem from="1570911974898" duration="3346000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for infrastructure IoC Project">
       <created>1570520710666</created>
@@ -309,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9024000" />
+    <option name="totallyTimeSpent" value="9698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,6 +316,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,7 +337,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -508,19 +503,6 @@
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Data/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <marker date="1570601209535" expanded="true" signature="6:111" ph="..." />
-            <marker date="1570601209535" expanded="true" signature="144:386" ph="{...}" />
-            <marker date="1570601209535" expanded="true" signature="183:384" ph="{...}" />
-            <marker date="1570601209535" expanded="true" signature="262:369" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Data/Repository/AccountRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -593,6 +575,19 @@
             <marker date="1570914383431" expanded="true" signature="267:600" ph="{...}" />
             <marker date="1570914383431" expanded="true" signature="398:470" ph="{...}" />
             <marker date="1570914383431" expanded="true" signature="521:594" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <marker date="1570915324756" expanded="true" signature="6:337" ph="..." />
+            <marker date="1570915324756" expanded="true" signature="370:866" ph="{...}" />
+            <marker date="1570915324756" expanded="true" signature="409:864" ph="{...}" />
+            <marker date="1570915324756" expanded="true" signature="488:849" ph="{...}" />
           </folding>
         </state>
       </provider>
