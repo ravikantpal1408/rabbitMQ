@@ -2,39 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/MicroRabbit.Banking.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/MicroRabbit.Banking.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/MicroRabbit.Banking.API.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/MicroRabbit.Banking.API.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/MicroRabbit.Banking.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/MicroRabbit.Banking.API.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,37 +37,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccount.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <marker date="1570914049177" expanded="true" signature="6:74" ph="..." />
-                <marker date="1570914049177" expanded="true" signature="128:218" ph="{...}" />
-                <marker date="1570914049177" expanded="true" signature="160:216" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs">
+        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="342">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
               <folding>
-                <marker date="1570916759024" expanded="false" signature="6:508" ph="..." />
-                <marker date="1570916759024" expanded="true" signature="543:2021" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="570:2019" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="629:692" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="915:1257" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="1001:1116" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="1325:1405" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="1593:2013" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="1640:1717" ph="{...}" />
-                <marker date="1570916759024" expanded="true" signature="1734:1937" ph="{...}" />
+                <marker date="1570946741305" expanded="false" signature="6:219" ph="..." />
+                <marker date="1570946741305" expanded="true" signature="266:745" ph="{...}" />
+                <marker date="1570946741305" expanded="true" signature="372:743" ph="{...}" />
+                <marker date="1570946741305" expanded="true" signature="488:554" ph="{...}" />
+                <marker date="1570946741305" expanded="true" signature="655:729" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,6 +63,7 @@
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Interfaces/IAccountRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Models/Account.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -127,6 +103,8 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Banking.API/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs" />
       </list>
     </option>
   </component>
@@ -144,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -182,14 +161,48 @@
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Banking.API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Banking.API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Application" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Banking.Application" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Banking.Application" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -262,7 +275,8 @@
       <workItem from="1570518074642" duration="2362000" />
       <workItem from="1570520476108" duration="256000" />
       <workItem from="1570600908403" duration="1210000" />
-      <workItem from="1570911974898" duration="6188000" />
+      <workItem from="1570911974898" duration="6553000" />
+      <workItem from="1570945413692" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for infrastructure IoC Project">
       <created>1570520710666</created>
@@ -289,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12540000" />
+    <option name="totallyTimeSpent" value="14524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,14 +316,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20523138" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20791416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="REST Client" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,9 +334,10 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
+      <window_info anchor="bottom" id="REST Client" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,9 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -542,6 +554,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccount.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -554,31 +586,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="358">
+          <caret line="71" column="87" selection-start-line="71" selection-start-column="87" selection-end-line="71" selection-end-column="87" />
+          <folding>
+            <marker date="1570946052354" expanded="false" signature="6:561" ph="..." />
+            <marker date="1570946052354" expanded="true" signature="596:2492" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="623:2490" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="682:745" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="968:1543" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="1054:1169" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="1327:1439" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="1611:1691" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="1879:2484" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="1926:2003" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="2020:2223" ph="{...}" />
+            <marker date="1570946052354" expanded="true" signature="2340:2446" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Startup.cs">
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="342">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
           <folding>
-            <marker date="1570916759024" expanded="false" signature="6:508" ph="..." />
-            <marker date="1570916759024" expanded="true" signature="543:2021" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="570:2019" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="629:692" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="915:1257" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="1001:1116" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="1325:1405" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="1593:2013" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="1640:1717" ph="{...}" />
-            <marker date="1570916759024" expanded="true" signature="1734:1937" ph="{...}" />
+            <marker date="1570946741305" expanded="false" signature="6:219" ph="..." />
+            <marker date="1570946741305" expanded="true" signature="266:745" ph="{...}" />
+            <marker date="1570946741305" expanded="true" signature="372:743" ph="{...}" />
+            <marker date="1570946741305" expanded="true" signature="488:554" ph="{...}" />
+            <marker date="1570946741305" expanded="true" signature="655:729" ph="{...}" />
           </folding>
         </state>
       </provider>
