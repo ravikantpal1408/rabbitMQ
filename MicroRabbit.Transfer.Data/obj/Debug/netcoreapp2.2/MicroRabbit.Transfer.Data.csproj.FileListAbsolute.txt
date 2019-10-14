@@ -7,3 +7,8 @@ E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroR
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfo.cs
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
 E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.runtimeconfig.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csproj.CopyComplete
