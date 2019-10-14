@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,136 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-              <folding>
-                <marker date="1570949356998" expanded="false" signature="6:291" ph="..." />
-                <marker date="1570949356998" expanded="true" signature="343:1190" ph="{...}" />
-                <marker date="1570949356998" expanded="true" signature="396:1188" ph="{...}" />
-                <marker date="1570949356998" expanded="true" signature="592:688" ph="{...}" />
-                <marker date="1570949356998" expanded="true" signature="739:812" ph="{...}" />
-                <marker date="1570949356998" expanded="true" signature="875:1182" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Events/TransferCreatedEvent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-              <folding>
-                <marker date="1570949868327" expanded="true" signature="81:449" ph="{...}" />
-                <marker date="1570949868327" expanded="true" signature="129:447" ph="{...}" />
-                <marker date="1570949868327" expanded="true" signature="205:300" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Commands/TransferCommand.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <marker date="1570948336077" expanded="true" signature="85:309" ph="{...}" />
-                <marker date="1570948336077" expanded="true" signature="139:307" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Commands/CreateTransferCommand.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <marker date="1570950116249" expanded="true" signature="61:325" ph="{...}" />
-                <marker date="1570950116249" expanded="true" signature="136:323" ph="{...}" />
-                <marker date="1570950116249" expanded="true" signature="213:308" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-              <folding>
-                <marker date="1570950403461" expanded="true" signature="6:201" ph="..." />
-                <marker date="1570950403461" expanded="true" signature="255:798" ph="{...}" />
-                <marker date="1570950403461" expanded="true" signature="344:796" ph="{...}" />
-                <marker date="1570950403461" expanded="true" signature="445:489" ph="{...}" />
-                <marker date="1570950403461" expanded="true" signature="591:790" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-              <folding>
-                <marker date="1570949949249" expanded="false" signature="6:263" ph="..." />
-                <marker date="1570949949249" expanded="true" signature="310:1014" ph="{...}" />
-                <marker date="1570949949249" expanded="true" signature="416:1012" ph="{...}" />
-                <marker date="1570949949249" expanded="true" signature="546:612" ph="{...}" />
-                <marker date="1570949949249" expanded="true" signature="713:787" ph="{...}" />
-                <marker date="1570949949249" expanded="true" signature="884:999" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
-              <folding>
-                <marker date="1570950468267" expanded="true" signature="6:445" ph="..." />
-                <marker date="1570950468267" expanded="true" signature="478:1135" ph="{...}" />
-                <marker date="1570950468267" expanded="true" signature="524:1133" ph="{...}" />
-                <marker date="1570950468267" expanded="true" signature="603:1118" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransfer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-              <folding>
-                <marker date="1570947717845" expanded="true" signature="46:235" ph="{...}" />
-                <marker date="1570947717845" expanded="true" signature="81:233" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -225,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -233,11 +111,44 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Transfer.API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -316,7 +227,8 @@
       <workItem from="1570957292315" duration="60000" />
       <workItem from="1570994438369" duration="26000" />
       <workItem from="1570994501352" duration="515000" />
-      <workItem from="1571032228264" duration="352000" />
+      <workItem from="1571032228264" duration="1769000" />
+      <workItem from="1571034749701" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for infrastructure IoC Project">
       <created>1570520710666</created>
@@ -343,7 +255,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19379000" />
+    <option name="totallyTimeSpent" value="21371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +269,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2186452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -613,36 +525,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
-          <folding>
-            <marker date="1570949356998" expanded="false" signature="6:291" ph="..." />
-            <marker date="1570949356998" expanded="true" signature="396:1188" ph="{...}" />
-            <marker date="1570949356998" expanded="true" signature="592:688" ph="{...}" />
-            <marker date="1570949356998" expanded="true" signature="739:812" ph="{...}" />
-            <marker date="1570949356998" expanded="true" signature="875:1182" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Events/TransferCreatedEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-          <folding>
-            <marker date="1570949868327" expanded="true" signature="129:447" ph="{...}" />
-            <marker date="1570949868327" expanded="true" signature="205:300" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Commands/TransferCommand.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
+            <marker date="1570948336077" expanded="true" signature="85:309" ph="{...}" />
             <marker date="1570948336077" expanded="true" signature="139:307" ph="{...}" />
           </folding>
         </state>
@@ -653,21 +541,9 @@
         <state relative-caret-position="144">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
+            <marker date="1570950116249" expanded="true" signature="61:325" ph="{...}" />
             <marker date="1570950116249" expanded="true" signature="136:323" ph="{...}" />
             <marker date="1570950116249" expanded="true" signature="213:308" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-          <folding>
-            <marker date="1570950403461" expanded="true" signature="6:201" ph="..." />
-            <marker date="1570950403461" expanded="true" signature="344:796" ph="{...}" />
-            <marker date="1570950403461" expanded="true" signature="445:489" ph="{...}" />
-            <marker date="1570950403461" expanded="true" signature="591:790" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -678,6 +554,7 @@
           <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding>
             <marker date="1570949949249" expanded="false" signature="6:263" ph="..." />
+            <marker date="1570949949249" expanded="true" signature="310:1014" ph="{...}" />
             <marker date="1570949949249" expanded="true" signature="416:1012" ph="{...}" />
             <marker date="1570949949249" expanded="true" signature="546:612" ph="{...}" />
             <marker date="1570949949249" expanded="true" signature="713:787" ph="{...}" />
@@ -686,9 +563,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransfer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <marker date="1570947717845" expanded="true" signature="46:235" ph="{...}" />
+            <marker date="1570947717845" expanded="true" signature="81:233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ideabackend" />
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="339">
           <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
           <folding>
             <marker date="1570950468267" expanded="true" signature="6:445" ph="..." />
@@ -699,23 +595,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransfer.cs">
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="216">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding>
-            <marker date="1570947717845" expanded="true" signature="81:233" ph="{...}" />
+            <marker date="1570950403461" expanded="true" signature="6:201" ph="..." />
+            <marker date="1570950403461" expanded="true" signature="255:798" ph="{...}" />
+            <marker date="1570950403461" expanded="true" signature="344:796" ph="{...}" />
+            <marker date="1570950403461" expanded="true" signature="445:489" ph="{...}" />
+            <marker date="1570950403461" expanded="true" signature="591:790" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ideabackend">
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <marker date="1570949356998" expanded="false" signature="6:291" ph="..." />
+            <marker date="1570949356998" expanded="true" signature="343:1190" ph="{...}" />
+            <marker date="1570949356998" expanded="true" signature="396:1188" ph="{...}" />
+            <marker date="1570949356998" expanded="true" signature="592:688" ph="{...}" />
+            <marker date="1570949356998" expanded="true" signature="739:812" ph="{...}" />
+            <marker date="1570949356998" expanded="true" signature="875:1182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Transfer.API/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.API/appsettings.json">
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Transfer.API/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Transfer.API/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Events/TransferCreatedEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1570949868327" expanded="true" signature="81:449" ph="{...}" />
+            <marker date="1570949868327" expanded="true" signature="129:447" ph="{...}" />
+            <marker date="1570949868327" expanded="true" signature="205:300" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

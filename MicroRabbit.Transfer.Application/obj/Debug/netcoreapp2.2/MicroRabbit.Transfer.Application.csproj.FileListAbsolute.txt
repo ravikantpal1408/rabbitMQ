@@ -1,0 +1,9 @@
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.deps.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb

@@ -1,0 +1,15 @@
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.dll.config
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.deps.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.runtimeconfig.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.runtimeconfig.dev.json
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.pdb
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.csprojAssemblyReference.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.csproj.CoreCompileInputs.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.RazorAssemblyInfo.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.RazorAssemblyInfo.cs
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.AssemblyInfoInputs.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.AssemblyInfo.cs
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.RazorTargetAssemblyInfo.cache
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.dll
+E:\ASP_CORE\MicroRabbit\MicroRabbit.Transfer.API\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.API.pdb
