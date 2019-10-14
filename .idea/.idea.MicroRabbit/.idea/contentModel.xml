@@ -183,6 +183,11 @@
           <e p="TransferDbContext.cs" t="Include" />
         </e>
         <e p="MicroRabbit.Transfer.Data.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20191014072948_Transfer log migration.cs" t="Include" />
+          <e p="20191014072948_Transfer log migration.Designer.cs" t="Include" />
+          <e p="TransferDbContextModelSnapshot.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
