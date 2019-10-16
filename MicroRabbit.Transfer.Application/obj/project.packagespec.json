@@ -17,7 +17,14 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+            "projectPath": "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+          },
+          "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+            "projectPath": "E:\\ASP_CORE\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
