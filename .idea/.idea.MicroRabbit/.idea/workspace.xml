@@ -2,79 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1640e86a-ff38-48af-8b32-1182b00db0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/Dtos/TransferLog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/Interfaces/ITransferService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/Services/TransferService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/Repository/TransferRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/Interfaces/ITransferRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/Controllers/BankingController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.API/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransfer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransferDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccountService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/Services/AccountServices.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.API/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.API/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.API.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/MicroRabbit.Transfer.Application.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/MicroRabbit.Transfer.Application.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Data.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/Models/TransferLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/Models/TransferLog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Transfer.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microservice.Transfer.API/obj/.EntityFrameworkCore.targets" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,62 +42,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Application/Dtos/TransferLog.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1571212657383" expanded="true" signature="47:278" ph="{...}" />
-                <marker date="1571212657383" expanded="true" signature="87:276" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccountService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <marker date="1571212015991" expanded="false" signature="6:118" ph="..." />
-                <marker date="1571212015991" expanded="true" signature="172:328" ph="{...}" />
-                <marker date="1571212015991" expanded="true" signature="211:326" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransferDto.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-              <folding>
-                <marker date="1571212002283" expanded="true" signature="46:238" ph="{...}" />
-                <marker date="1571212002283" expanded="true" signature="84:236" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Application/Interfaces/ITransferService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="31" />
-              <folding>
-                <marker date="1571212664054" expanded="true" signature="6:188" ph="..." />
-                <marker date="1571212664054" expanded="true" signature="244:350" ph="{...}" />
-                <marker date="1571212664054" expanded="true" signature="284:348" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -261,6 +151,38 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Banking" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MicroRabbit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Microservices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Transfer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MicroRabbit.Transfer.Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -279,7 +201,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="IDEA_BACKEND" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="RiderIisExpressOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -367,7 +289,12 @@
       <workItem from="1570994501352" duration="515000" />
       <workItem from="1571032228264" duration="1769000" />
       <workItem from="1571034749701" duration="3695000" />
-      <workItem from="1571210427366" duration="2299000" />
+      <workItem from="1571210427366" duration="2430000" />
+      <workItem from="1571385310481" duration="602000" />
+      <workItem from="1571570922883" duration="1140000" />
+      <workItem from="1571572352186" duration="672000" />
+      <workItem from="1571814449571" duration="26000" />
+      <workItem from="1571814508412" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for infrastructure IoC Project">
       <created>1570520710666</created>
@@ -394,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26790000" />
+    <option name="totallyTimeSpent" value="29615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,7 +335,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20657277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -426,7 +353,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
       <window_info anchor="bottom" id="REST Client" order="16" />
       <window_info anchor="bottom" id="Change Signature" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -892,6 +819,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransferDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1571212002283" expanded="true" signature="46:238" ph="{...}" />
+            <marker date="1571212002283" expanded="true" signature="84:236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccountService.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -900,17 +838,6 @@
             <marker date="1571212015991" expanded="false" signature="6:118" ph="..." />
             <marker date="1571212015991" expanded="true" signature="172:328" ph="{...}" />
             <marker date="1571212015991" expanded="true" signature="211:326" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Dtos/AccountTransferDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <marker date="1571212002283" expanded="true" signature="46:238" ph="{...}" />
-            <marker date="1571212002283" expanded="true" signature="84:236" ph="{...}" />
           </folding>
         </state>
       </provider>
